@@ -1,3 +1,5 @@
+#include "Arduino.h"
+
 #define ADC_pin B010
 #define MEAS_BUF_SIZE 512
 #define MEAS_INTERVAL 1
